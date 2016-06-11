@@ -1,3 +1,6 @@
 [submodule "_up-n-going"]
 	path = _up-n-going
 	url = https://github.com/funpress/up-n-going
+[submodule "_babel"]
+	path = _babel
+	url = https://github.com/funpress/babel

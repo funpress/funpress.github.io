@@ -1,0 +1,62 @@
+######################
+#  Table of Contents
+
+- title: Introduction
+  path:  01__Introduction.md
+
+- title: Setting up Babel
+  path:  02__Setting_up_Babel.md
+  sections:
+  - title: "`babel-cli`"
+    sections:
+    - title: Running Babel CLI from within a project
+  - title: "`babel-register`"
+  - title: "`babel-node`"
+  - title: "`babel-core`"
+
+- title: Configuring Babel
+  path:  03__Configuring_Babel.md
+  sections:
+  - title: "`.babelrc`"
+  - title: "`babel-preset-es2015`"
+  - title: "`babel-preset-react`"
+  - title: "`babel-preset-stage-x`"
+
+- title: Executing Babel-generated code
+  path:  04__Executing_Babel-generated_code.md
+  sections:
+  - title: "`babel-polyfill`"
+  - title: "`babel-runtime`"
+
+- title: Configuring Babel (Advanced)
+  path:  "05__Configuring_Babel_Advanced.md"
+  sections:
+  - title: Manually specifying plugins
+  - title: Plugin options
+  - title: Customizing Babel based on environment
+  - title: Making your own preset
+
+- title: Babel and other tools
+  path:  06__Babel_and_other_tools.md
+  sections:
+  - title: Static analysis tools
+    sections:
+    - title: Linting
+    - title: Code Style
+    - title: Documentation
+  - title: Frameworks
+    sections:
+    - title: React
+  - title: Text Editors and IDEs
+
+- title: Debugging Babel
+  path:  07__Debugging_Babel.md
+
+- title: Babel Support
+  path:  08__Babel_Support.md
+  sections:
+  - title: Babel Forum
+  - title: Babel Chat
+  - title: Babel Issues
+    sections:
+    - title: Creating an awesome Babel bug report
