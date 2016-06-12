@@ -4,3 +4,6 @@
 [submodule "_babel"]
 	path = _babel
 	url = https://github.com/funpress/babel
+[submodule "_mostly-adequate-guide-to-fp"]
+	path = _mostly-adequate-guide-to-fp
+	url = https://github.com/funpress/mostly-adequate-guide-to-fp
