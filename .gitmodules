@@ -7,3 +7,6 @@
 [submodule "_mostly-adequate-guide-to-fp"]
 	path = _mostly-adequate-guide-to-fp
 	url = https://github.com/funpress/mostly-adequate-guide-to-fp
+[submodule "_es6-features"]
+	path = _es6-features
+	url = https://github.com/funpress/es6-features
